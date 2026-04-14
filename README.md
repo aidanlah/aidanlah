@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Aidan Leong</h1>
-<h3 align="center">AI | Software Development | Algorithm based Solutions</h3>
+<h3 align="center">AI Engineering | Software Development | Data Engineering</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
